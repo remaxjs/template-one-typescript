@@ -1,5 +1,5 @@
 {
-  "miniprogramRoot": "dist",
+  "miniprogramRoot": "dist/alipay",
   "scripts": {
     "beforeCompile": "npm run dev -- alipay",
     "beforePreview": "npm run build -- alipay",
@@ -12,6 +12,7 @@
     "babel.config.js",
     "package-lock.json",
     "package.json",
+    "project.config.json",
     "remax.config.js",
     "app.json"
   ],

@@ -11,7 +11,7 @@
     "build": "cross-env NODE_ENV=production remax build -t ",
     "dev": "cross-env remax build -w -t ",
     "clean": "rimraf dist",
-    "prebuild:alipay": "npm run clean"
+    "prebuild": "npm run clean"
   },
   "dependencies": {
     "react": "^16.8.6",
