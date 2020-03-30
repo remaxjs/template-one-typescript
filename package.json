@@ -15,13 +15,13 @@
   },
   "dependencies": {
     "react": "^16.8.6",
-    "remax": "^1.1.0",
+    "remax": "^1.19.0",
     "rimraf": "^2.6.3"
   },
   "devDependencies": {
     "@types/react": "^16.9.27",
     "chokidar": "^2.1.8",
     "cross-env": "^6.0.3",
-    "remax-cli": "^1.1.0"
+    "remax-cli": "^1.19.0"
   }
 }
